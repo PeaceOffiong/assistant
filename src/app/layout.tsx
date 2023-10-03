@@ -6,7 +6,7 @@ import { Providers } from "./providers";
 const roboto = Raleway({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "uree",
+  title: "your assistant",
   description: "your on page assistant",
 };
 
