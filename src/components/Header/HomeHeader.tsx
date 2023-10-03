@@ -78,7 +78,7 @@ function HomeHeaderLHS() {
       }}
     >
       <Flex w={"100%"}>
-        <InfoCard left="35%" text="hello i'm  uree" img="/awareState.svg" />
+        <InfoCard left="35%" text="hello i'm  your assisitant" img="/awareState.svg" />
       </Flex>
     </Flex>
   );
